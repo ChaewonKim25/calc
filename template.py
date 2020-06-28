@@ -6,7 +6,7 @@ html = b"""
             b = <input type="number" name="b"><br><br>
             <input type="submit">
         </form>
-            Sum(a+b): %(sum)d <br><br>
-            Product(a*b): %(product)d
+            Sum(a+b): %(sum)s <br><br>
+            Product(a*b): %(product)s
     </body>
 """
